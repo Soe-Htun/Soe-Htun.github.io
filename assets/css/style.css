@@ -442,6 +442,12 @@ section {
     font-family: "Poppins", sans-serif;
     transition: ease-in-out 0.3s;
 }
+.indent-10 {
+    text-indent: 10px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
 
 .facts .count-box a:hover {
     color: #1f5297;
